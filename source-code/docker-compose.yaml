@@ -1,0 +1,65 @@
+version: "3"
+
+networks:
+
+    network-software-shinobi:
+
+        external: false
+
+services:
+
+    software-shinobi-mysql-database:
+
+        container_name: software-shinobi-mysql-database
+
+        image: softwareshinobi/software-shinobi-mysql-training-database:latest
+
+        restart: always
+
+        networks:
+
+            - network-software-shinobi
+
+        ports:
+
+            - 3306:3306
+
+        volumes:
+
+            - ../container-volume-data/mysql-database:/var/lib/mysql
+
+        environment:
+
+            MYSQL_ROOT_PASSWORD: ndMVsRDfzb
+
+            MYSQL_DATABASE: software_shinobi_schema
+
+            MYSQL_USER: software_shinobi
+
+            MYSQL_PASSWORD: ndMVsRDfzbndMVsRDfzb
+
+    software-shinobi-database-manager:
+
+        container_name: software-shinobi-database-manager
+
+        image: beeyev/phpmyadmin-lightweight
+        
+        depends_on:
+
+            - software-shinobi-mysql-database
+
+        restart: unless-stopped
+
+        networks:
+
+            - network-software-shinobi
+
+        ports:
+
+            - 8888:80
+
+        environment:
+
+            PMA_HOST: software-shinobi-mysql-database
+
+            MYSQL_ROOT_PASSWORD: ndMVsRDfzb

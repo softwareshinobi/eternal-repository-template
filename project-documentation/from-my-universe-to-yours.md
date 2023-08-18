@@ -8,7 +8,7 @@ In this repository and others like it, I have shared many things.
 
 The contents of this repository have been created to fulfill a singular Intention.
 
-## The Intention Behind It All
+## The Singular Intention
 
 It is my Intention that the fruits of my software development labor will be shared with and consumed by the Universe forever and forever.
 
