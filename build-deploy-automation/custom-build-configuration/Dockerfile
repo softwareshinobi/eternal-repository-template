@@ -1,36 +1,27 @@
+##
+## This Dockerfile builds and bundles the software-shinobi-eternal-repository-template static html files into an nginx Docker image.
+##
 
-## the first stage of our build will use a maven 3.6.1 parent image
+FROM nginx:latest
 
-FROM maven:3.8.7-openjdk-18-slim AS MAVEN_BUILD
+MAINTAINER Software Shinobi "the.software.shinobi@gmail.com"
 
-MAINTAINER "Software Shinobi"
+## Define Dockerfile Variables
 
-## copy the pom and src code to the container
+ARG target_image_directory=/usr/share/nginx/html/
 
-COPY ./ ./
+##
 
-## package our application code
+USER root
 
-RUN mvn package
+##
 
-## see what files are available 
+RUN rm -frv $target_image_directory/*
 
-RUN ls /target/
+COPY . $target_image_directory/
 
-## the second stage of our build will use open jdk 8 on alpine 3.9
+## Verification Steps
 
-FROM eclipse-temurin:18-jre-alpine
+RUN ls      $target_image_directory
 
-##RUN apk add py3-pip
-
-## copy only the artifacts we need from the first stage and discard the rest
-
-COPY --from=MAVEN_BUILD /target/reading-rainbox-library-reservation-system-1.0.jar /reading-rainbox-library-reservation-system.jar
-
-COPY --from=MAVEN_BUILD /src/main/resources/application.properties /application.properties
-
-# COPY --from=MAVEN_BUILD /src/test/resources/conf/database.properties /conf/database.properties
-
-# set the startup command to execute the jar
-
-CMD ["java", "-jar", "/reading-rainbox-library-reservation-system.jar"]
+###RUN find $target_image_directory

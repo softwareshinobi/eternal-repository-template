@@ -4,7 +4,7 @@ pipeline {
 
     stages {
 
-        stage('Mark build-automation scripts as executable') {
+        stage('mark build-automation scripts as executable') {
 
             steps {
 
@@ -14,7 +14,7 @@ pipeline {
 
         }
         
-        stage('Build docker image from Dockerfile') {
+        stage('build docker image from Dockerfile') {
 
             steps {
 
@@ -24,7 +24,7 @@ pipeline {
 
         }
 
-        stage('Push docker image to softwareshinobi DockerHub') {
+        stage('push docker image to softwareshinobi DockerHub') {
 
             steps {
 
@@ -34,7 +34,7 @@ pipeline {
 
         }
         
-        stage('Remove docker image from local repository') {
+        stage('pemove docker image from local repository') {
 
             steps {
 
@@ -42,9 +42,7 @@ pipeline {
 
             }
 
-        }      
-        
-        
+        }              
               
     }
 

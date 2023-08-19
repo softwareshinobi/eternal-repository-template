@@ -8,14 +8,16 @@ set -e
 
 ##
 
-source ./local-execution-scripts-common.sh
+source ./local-repository-environment-scripts-common.sh
 
 ##
 
-cd ../source-code
+cd $build_file_directory
 
 ##
 
 docker-compose down --remove-orphans
 
 docker-compose up -d
+
+##

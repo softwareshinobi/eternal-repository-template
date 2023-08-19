@@ -8,7 +8,7 @@ set -e
 
 ##
 
-source ./custom-build-configuration/docker-image-repository-configuration.conf
+source ../custom-build-configuration/docker-image-repository-configuration.conf
 
 ##
 

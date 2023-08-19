@@ -1,6 +1,7 @@
 $(document).ready(function () {
 
-    updateDivAreaWithText("Be Great");
+    updateDivAreaWithText("tell me what you want");
+    
     executeContentUpdate();
 
     window.setInterval(function () {
@@ -13,6 +14,7 @@ var isManual = false;
 var textOnScreen;
 
 function executeContentUpdate() {
+
     console.debug("enter :: executeContentUpdate()");
 
     if (isManual === false) {
@@ -25,11 +27,15 @@ function executeContentUpdate() {
 }
 
 function updateDivAreaFromRestCall() {
+
     console.debug("enter :: updateDivAreaFromRestCall()");
 
     $.ajax({
+    
         type: "GET",
+        
         url: "http://dwity.softwareshinobi.com:8288/software-shinobi/dwity",
+        
         //#dataType: "json",
 
         success: function (data) {
@@ -40,6 +46,7 @@ function updateDivAreaFromRestCall() {
             updateDivAreaWithText(data);
 
         },
+        
         error: function (data) {
 
             console.error("error occured loading rest data");
@@ -47,13 +54,14 @@ function updateDivAreaFromRestCall() {
             console.error(data);
 
         }
-    }
-    );
+
+    });
 
     console.debug("exit :: updateDivAreaFromRestCall()");
 }
 
 function manuallyEditScreenText() {
+
     console.debug("enter :: manuallyEditScreenText()");
 
     var inputText = prompt("Enter on-screen text here", textOnScreen);
@@ -87,9 +95,11 @@ function manuallyEditScreenText() {
     });
     
     console.debug("exit :: manuallyEditScreenText()");
+    
 }
 
 function updateDivAreaWithText(text) {
+
     console.debug("enter :: updateDivAreaWithText()");
 
     var innerContent = "";
@@ -103,4 +113,5 @@ function updateDivAreaWithText(text) {
     textOnScreen = text;
 
     console.debug("exit :: updateDivAreaWithText()");
+    
 }
