@@ -8,7 +8,7 @@ set -e
 
 ##
 
-source ../docker-image-repository-configuration.conf
+source ../custom-build-configuration/docker-image-repository-configuration.conf
 
 ## 
 
@@ -16,4 +16,4 @@ source ../docker-image-repository-configuration.conf
 
 ##
 
-docker build -f ../Dockerfile -t $repositoryUser/$repositoryName:$repositoryTag ../../source-code
+docker build -f ../custom-build-configuration/Dockerfile -t $repositoryUser/$repositoryName:$repositoryTag ../../source-code
