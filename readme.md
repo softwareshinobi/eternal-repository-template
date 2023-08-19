@@ -2,7 +2,7 @@
 
 In this GitHub repo will find a generic source code repository template with baked in capability for automated builds, dockerhub deploy, jenkins pipeline, and self contained documentation.
 
-![Software Shinobi External Repository Template](project-documentation/images-pictures/cover-image.png)
+![Software Shinobi External Repository Template](repository-documentation/images-pictures/cover-image.png)
 
 ## In The Beginning
 
