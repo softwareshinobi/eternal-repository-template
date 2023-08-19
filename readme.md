@@ -6,35 +6,43 @@ In this GitHub repo will find a server provisioning bash script that will update
 
 ## About This Repository
 
-So you've just created a new ubuntu linux server.
+From My Universe To Yours, With Lots Of Love.
 
-Naturally you ask the following question: "I've got a new ubuntu linux server, now what?"
+In order to receive we must share.
 
-First things first, let's do some simple OS configuration and install some stuff.
+Or something like that.
 
-In this GitHub repo will find a server provisioning bash script that will update, upgrade and configure your new ubuntu linux server.
+In this repository and the repositories that shall extend this repository, I have shared many things.
+
+The contents of these repositories have been created to fulfill a singular Intention.
+
+## The Singular Intention
+
+It is my Intention that the fruits of my software development labor will be shared with and consumed by the Universe, forever and forever.
+
+I wish to become eternal.
+
+Namaste.
+
+--
+
+With Lots Of Love,
+
+Software Shinobi
 
 ## About The Author
 
-lorem ipsum...
+I'll put something witty and clever here later.
 
-## More Things To Do In An Idealized Future
+## Read The Project Documentation
 
-- [ ] i want mkdocs to pick up the entire repository. then everything is documented.
+I put together a collection of content that goes into more detail about this project.
 
-- [ ] build the entire project as a markdown blog server
-
-- [ ] Configure Docker user permissions at install
-
-## Read The Companion Article
-
-I put together an article that goes into more detail about this provision script.
-
-So go read that article. Or don't, that's ok too.
+So go read that project documentation. Or don't, that's ok too.
 
 Somewhere in there is RTFM humor.
 
-[Read the provision script companion article](project-documentation/companion-article/readme.md)
+[Read The Project Documentation](project-documentation/readme.md)
 
 ## Quick Start: Ubuntu Linux New Server Provision Script
 
