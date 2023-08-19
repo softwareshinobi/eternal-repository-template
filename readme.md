@@ -34,7 +34,7 @@ So go read that article. Or don't, that's ok too.
 
 Somewhere in there is RTFM humor.
 
-[Read the provision script companion article](project-documentation/you-just-created-a-new-ubuntu-linux-server-now-what.md)
+[Read the provision script companion article](project-documentation/companion-article/readme.md)
 
 ## Quick Start: Ubuntu Linux New Server Provision Script
 
