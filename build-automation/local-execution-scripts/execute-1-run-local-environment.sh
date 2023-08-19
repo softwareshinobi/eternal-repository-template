@@ -8,7 +8,7 @@ set -e
 
 ##
 
-source ./local-environment-common.sh
+source ./local-execution-scripts-common.sh
 
 ##
 
@@ -17,3 +17,5 @@ cd ../source-code
 ##
 
 docker-compose down --remove-orphans
+
+docker-compose up -d

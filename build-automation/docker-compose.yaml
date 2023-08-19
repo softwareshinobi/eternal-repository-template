@@ -1,0 +1,86 @@
+version: "3"
+
+networks:
+
+    network-reading-rainbox-library-reservation-system:
+
+        external: false
+
+services:
+
+
+    reading-rainbox-library-reservation-system-server:
+
+        container_name: reading-rainbox-library-reservation-system-server
+
+        image: softwareshinobi/reading-rainbox-library-reservation-system-mvc-spring:latest
+
+        depends_on:
+
+            - reading-rainbox-library-reservation-system-database
+
+        restart: always
+
+        networks:
+
+            - network-reading-rainbox-library-reservation-system
+
+        ports:
+
+            - 8080:8080
+            
+    reading-rainbox-library-reservation-system-database:
+
+        container_name: reading-rainbox-library-reservation-system-database
+
+        image: softwareshinobi/software-shinobi-mysql-training-database:latest
+
+        restart: always
+
+        networks:
+
+            - network-reading-rainbox-library-reservation-system
+
+        ports:
+
+            - 3306:3306
+
+        volumes:
+
+            - ./container-volume-data/mysql-database:/var/lib/mysql
+
+        environment:
+
+            MYSQL_ROOT_PASSWORD: jquSse6lAEkkRZe9
+
+            MYSQL_DATABASE: readingrainboxlibrary
+
+            MYSQL_USER: readingrainboxlibrary
+
+            MYSQL_PASSWORD: readingrainboxlibrary
+            
+    reading-rainbox-library-reservation-system-database-manager:
+
+        container_name: reading-rainbox-library-reservation-system-database-manager
+
+        image: beeyev/phpmyadmin-lightweight
+        
+        depends_on:
+
+            - reading-rainbox-library-reservation-system-database
+
+        restart: unless-stopped
+
+        networks:
+
+            - network-reading-rainbox-library-reservation-system
+
+        ports:
+
+            - 8888:80
+
+        environment:
+
+            PMA_HOST: reading-rainbox-library-reservation-system-database
+
+            MYSQL_ROOT_PASSWORD: ndMVsRDfzb

@@ -8,7 +8,7 @@ set -e
 
 ##
 
-source ./build-automation-common.sh
+source ./docker-image-repository-configuration.conf
 
 ##
 
