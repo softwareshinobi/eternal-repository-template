@@ -41,7 +41,9 @@ apt-get install -y python3 python-pip
 ##pip install --upgrade pip
 ##apt-get install -y mkdocs
 
-pip install --upgrade pip
+## pip install --upgrade pip
+
+pip install --index-url=https://pypi.python.org/simple/ mkdocs
 
 pip install mkdocs
 
