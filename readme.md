@@ -1,4 +1,4 @@
-# You Just Created A New Ubuntu Linux Server, Now What!?
+# I Seek To Become A God.
 
 In this GitHub repo will find a server provisioning bash script that will update, upgrade and configure your new ubuntu linux server.
 
@@ -45,7 +45,7 @@ Great, i'm thrilled.
 Clone this repo and run the following command:
 
 ```bash
-sudo bash source-code/provision-new-ubuntu-linux-server-basic.sh 
+sudo bash build-and-run-dockerized-project-locally.sh
 ```
 
 ## Namaste.
