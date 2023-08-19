@@ -44,16 +44,6 @@ Somewhere in there is RTFM humor.
 
 [Read The Project Documentation](project-documentation/readme.md)
 
-## Quick Start: Ubuntu Linux New Server Provision Script
-
-Want to try and execute the ubuntu linux server provision script yourself?
-
-Great, i'm thrilled.
-
-Clone this repo and run the following command:
-
-```bash
-sudo bash build-and-run-dockerized-project-locally.sh
 ```
 
 ## Namaste.
