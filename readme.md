@@ -1,28 +1,36 @@
 # I Seek To Become A God.
 
-In this GitHub repo will find a server provisioning bash script that will update, upgrade and configure your new ubuntu linux server.
+In this GitHub repo will find a generic source code repository template with baked in capability for automated builds, dockerhub deploy, jenkins pipeline, and self contained documentation.
 
-![Run This Provision Script On Every New Linux Server You Create](project-documentation/images-pictures/cover-image.png)
+![Software Shinobi External Repository Template](project-documentation/images-pictures/cover-image.png)
 
-## About This Repository
+## In The Beginning
+
+In the beginning, there was a GitHub repository that would supercede them all.
+
+This is that GitHub project. And there are others.
+
+This repository was created to be cloned/extended/forked/exploited/users by me, others, and the Universe to support their mission goals and intentions.
+
+In this repository will find a generic source code repository template with baked-in capability for jenkins pipelines, automated builds, automated DockerHub deploys, and self-contained documentation.
+
+## The True Intention Of This Repository
 
 From My Universe To Yours, With Lots Of Love.
 
-In order to receive we must share.
-
-Or something like that.
+In order to receive we must share. Or something like that.
 
 In this repository and the repositories that shall extend this repository, I have shared many things.
 
-The contents of these repositories have been created to fulfill a singular Intention.
+In addition to my duty to share, the contents of these repositories have been created to fulfill a selfish Intention.
 
-## The Singular Intention
+## The Selfish Intention Of This Repository
 
-It is my Intention that the fruits of my software development labor will be shared with and consumed by the Universe, forever and forever.
+It is my Intention that the fruits of my software development creation will be shared with and consumed by the Universe, today and forever and forever.
 
-I wish to become eternal.
+I desire that my fruit become eternal.
 
-Namaste.
+I desire to become Eternal.
 
 --
 
@@ -30,19 +38,16 @@ With Lots Of Love,
 
 Software Shinobi
 
-## About The Author
 
-I'll put something witty and clever here later.
+## Read The Repository Documentation
 
-## Read The Project Documentation
+I put together a collection of content that goes into more detail about this repository.
 
-I put together a collection of content that goes into more detail about this project.
-
-So go read that project documentation. Or don't, that's ok too.
+So go read that repository documentation. Or don't, that's ok too.
 
 Somewhere in there is RTFM humor.
 
-[Read The Project Documentation](project-documentation/readme.md)
+[Read The Repository Documentation](repository-documentation/readme.md)
 
 ```
 
