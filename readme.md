@@ -48,6 +48,4 @@ Somewhere in there is RTFM humor.
 
 [Read The Repository Documentation](repository-documentation/readme.md)
 
-```
-
 ## Namaste.
