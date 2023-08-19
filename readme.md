@@ -1,8 +1,12 @@
-# I Seek To Become Eternal.
+# I Desire To Receive Software Developer Immortality.
 
 In this repository will find a generic source code repository with baked-in capability for Jenkins pipelines, automated docker image builds, automated DockerHub deploys, and self-contained documentation.
 
 ![Software Shinobi External Repository Template](repository-documentation/images-pictures/cover-image.png)
+
+## Prologue
+
+I did this for Her. I did this for the Universe.
 
 ## In The Beginning
 
@@ -12,15 +16,13 @@ This is that GitHub project, and there are others.
 
 In this repository will find a generic source code repository with baked-in capability for Jenkins pipelines, automated docker image builds, automated DockerHub deploys, and self-contained documentation.
 
-This repository was created to be used/cloned/forked/extended/exploited by me, you, and the Universe to support our mission goals and intentions.
-
-Today and forever.
+This repository was created to be used/cloned/forked/extended/exploited by me, you, and especially the Universe to support our mission goals and intentions. Today and forever.
 
 ## From My Universe To Yours, With Lots Of Love.
 
 In order to receive we must share. Or something like that.
 
-It is my duty to share my gifts.
+It is my duty to share my gifts, as gifts were shared with me.
 
 In this repository and the repositories that extend this repository, I am sharing my software development fruit.
 
@@ -32,7 +34,9 @@ It is my Intention that the fruits of this repository and my software developmen
 
 I desire that my fruit become eternal.
 
-I desire to receive Immortality.
+I desire to achieve software developer immortality.
+
+I share this repository today to receive software developer immortality.
 
 ## Read The Repository Documentation
 
