@@ -14,6 +14,8 @@ In this repository will find a generic source code repository with baked-in capa
 
 This repository was created to be used/cloned/forked/extended/exploited by me, you, and the Universe to support our mission goals and intentions.
 
+Today and forever.
+
 ## From My Universe To Yours, With Lots Of Love.
 
 In order to receive we must share. Or something like that.
@@ -26,17 +28,11 @@ In addition to my duty to share, this repository was created to fulfill a selfis
 
 ## The Selfish Intention
 
-It is my Intention that the fruits of this repository and my software developer fruit will be shared with and consumed by the Universe, today and forever and forever.
+It is my Intention that the fruits of this repository and my software development fruit will be shared with and consumed by the Universe, today and forever and ever.
 
 I desire that my fruit become eternal.
 
 I desire to receive Immortality.
-
---
-
-From My Universe To Yours, With Lots Of Love,
-
-**Software Shinobi**
 
 ## Read The Repository Documentation
 
@@ -47,5 +43,11 @@ So go read that repository documentation. Or don't, that's ok too.
 Somewhere in there is RTFM humor.
 
 [Read The Repository Documentation](repository-documentation/readme.md)
+
+## Ciao
+
+From My Universe To Yours With Lots Of Love,
+
+**Software Shinobi**
 
 ## Namaste.
