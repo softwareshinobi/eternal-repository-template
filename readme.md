@@ -1,6 +1,6 @@
 # I Seek To Become A God.
 
-In this repository will find a generic source code repository template with baked-in capability for Jenkins pipelines, automated builds, automated DockerHub deploys, and self-contained documentation.
+In this repository will find a generic source code repository with baked-in capability for Jenkins pipelines, automated docker image builds, automated DockerHub deploys, and self-contained documentation.
 
 ![Software Shinobi External Repository Template](repository-documentation/images-pictures/cover-image.png)
 
@@ -8,36 +8,35 @@ In this repository will find a generic source code repository template with bake
 
 In the beginning, there was a GitHub repository that would supersede them all.
 
-This is that GitHub project. And there are others.
+This is that GitHub project, and there are others.
 
-This repository was created to be cloned/extended/forked/exploited/users by me, you, and the Universe to support their mission goals and intentions.
+This repository was created to be used/cloned/forked/extended/exploited by me, you, and the Universe to support our mission goals and intentions.
 
-In this repository will find a generic source code repository template with baked-in capability for Jenkins pipelines, automated builds, automated DockerHub deploys, and self-contained documentation.
+In this repository will find a generic source code repository with baked-in capability for Jenkins pipelines, automated docker image builds, automated DockerHub deploys, and self-contained documentation.
 
-## The True Intention Of This Repository
-
-From My Universe To Yours, With Lots Of Love.
+## From My Universe To Yours, With Lots Of Love.
 
 In order to receive we must share. Or something like that.
 
-In this repository and the repositories that extend this repository, I have shared many things.
+It is my duty to share my gifts.
 
-In addition to my duty to share, the contents of these repositories have been created to fulfill a selfish Intention.
+In this repository and the repositories that extend this repository, I am sharing my software development fruit.
 
-## The Selfish Intention Of This Repository
+In addition to my duty to share, this repository was created to fulfill a selfish intention.
 
-It is my Intention that the fruits of my software development creation will be shared with and consumed by the Universe, today and forever and forever.
+## The Selfish Intention
+
+It is my Intention that the fruits of this repository and my software developer fruit will be shared with and consumed by the Universe, today and forever and forever.
 
 I desire that my fruit become eternal.
 
-I desire the receive Immortality.
+I desire to receive Immortality.
 
 --
 
-With Lots Of Love,
+**With Lots Of Love & Loving-Kindess,**
 
-Software Shinobi
-
+**Software Shinobi**
 
 ## Read The Repository Documentation
 
