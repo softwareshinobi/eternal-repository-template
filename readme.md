@@ -1,4 +1,4 @@
-# I Seek To Become Immortal.
+# I Seek To Become Eternal.
 
 In this repository will find a generic source code repository with baked-in capability for Jenkins pipelines, automated docker image builds, automated DockerHub deploys, and self-contained documentation.
 
