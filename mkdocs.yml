@@ -1,0 +1,10 @@
+
+## docs_dir: project-documentation
+
+docs_dir: ..
+
+site_name: Software Shinobi Eternal Repository Template
+
+theme:
+
+  name: terminal

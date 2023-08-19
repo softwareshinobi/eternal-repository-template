@@ -20,8 +20,10 @@ lorem ipsum...
 
 ## More Things To Do In An Idealized Future
 
-- [ ] Run the script into a Docker image for funsies.
-- [ ] Create standard users w/ passwords w/ keys
+- [ ] i want mkdocs to pick up the entire repository. then everything is documented.
+
+- [ ] build the entire project as a markdown blog server
+
 - [ ] Configure Docker user permissions at install
 
 ## Read The Companion Article

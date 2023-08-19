@@ -1,0 +1,27 @@
+version: "3"
+
+networks:
+
+    network-software-shinobi-eternal-repository-template:
+
+        external: false
+
+services:
+
+
+    software-shinobi-eternal-repository-template-server:
+
+        container_name: software-shinobi-eternal-repository-template-server
+
+        image: softwareshinobi/software-shinobi-eternal-repository-template-server:latest
+      
+        restart: always
+
+        networks:
+
+            - network-software-shinobi-eternal-repository-template
+
+        ports:
+
+            - 8080:3000
+            
