@@ -34,7 +34,7 @@ I desire to receive Immortality.
 
 --
 
-**With Lots Of Love & Loving-Kindess,**
+From My Universe To Yours, With Lots Of Love,
 
 **Software Shinobi**
 
