@@ -20,15 +20,15 @@ In this repository will find a generic source code repository with baked-in capa
 
 This repository was created to be used/cloned/forked/extended/exploited by me, you, and especially the Universe to support our mission goals and intentions. Today and forever.
 
-## From My Universe To Yours, With Lots Of Love.
+## A Repository Created With Love
 
 In order to receive we must share. Or something like that.
 
-It is my duty to share my gifts, as gifts were shared with me.
+It is my duty to share my gifts, as the gifts of others were shared with me.
 
 In this repository and the repositories that extend this repository, I am sharing my software development fruit.
 
-In addition to my duty to share, this repository was created to fulfill a selfish intention.
+In addition to my duty to share, this repository and it's fruit was created to fulfill a selfish intention.
 
 ## The Selfish Intention
 
