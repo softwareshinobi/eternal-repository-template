@@ -52,6 +52,6 @@ Somewhere in there is RTFM humor.
 
 From My Universe To Yours With Lots Of Love,
 
-**Software Shinobi**
+Software Shinobi
 
 ## Namaste.
