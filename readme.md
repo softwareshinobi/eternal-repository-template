@@ -1,4 +1,4 @@
-# I Seek To Become A God.
+# I Seek To Become Immortal.
 
 In this repository will find a generic source code repository with baked-in capability for Jenkins pipelines, automated docker image builds, automated DockerHub deploys, and self-contained documentation.
 
@@ -10,9 +10,9 @@ In the beginning, there was a GitHub repository that would supersede them all.
 
 This is that GitHub project, and there are others.
 
-This repository was created to be used/cloned/forked/extended/exploited by me, you, and the Universe to support our mission goals and intentions.
-
 In this repository will find a generic source code repository with baked-in capability for Jenkins pipelines, automated docker image builds, automated DockerHub deploys, and self-contained documentation.
+
+This repository was created to be used/cloned/forked/extended/exploited by me, you, and the Universe to support our mission goals and intentions.
 
 ## From My Universe To Yours, With Lots Of Love.
 
