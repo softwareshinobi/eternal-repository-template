@@ -6,7 +6,9 @@ In this repository will find a generic source code repository with baked-in capa
 
 ## Prologue
 
-I did this for Her. I did this for the Universe.
+I did this for Her.
+
+I did this for the Universe.
 
 ## In The Beginning
 
