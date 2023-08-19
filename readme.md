@@ -12,7 +12,7 @@ I did this for Her. I did this for the Universe.
 
 In the beginning, there was a GitHub repository that would supersede them all.
 
-This is that GitHub project, and there are others.
+This is that GitHub repository, and there are others.
 
 In this repository will find a generic source code repository with baked-in capability for Jenkins pipelines, automated docker image builds, automated DockerHub deploys, and self-contained documentation.
 
