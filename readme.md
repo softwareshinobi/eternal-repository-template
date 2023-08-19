@@ -1,18 +1,18 @@
 # I Seek To Become A God.
 
-In this GitHub repo will find a generic source code repository template with baked in capability for automated builds, dockerhub deploy, jenkins pipeline, and self contained documentation.
+In this repository will find a generic source code repository template with baked-in capability for Jenkins pipelines, automated builds, automated DockerHub deploys, and self-contained documentation.
 
 ![Software Shinobi External Repository Template](repository-documentation/images-pictures/cover-image.png)
 
 ## In The Beginning
 
-In the beginning, there was a GitHub repository that would supercede them all.
+In the beginning, there was a GitHub repository that would supersede them all.
 
 This is that GitHub project. And there are others.
 
-This repository was created to be cloned/extended/forked/exploited/users by me, others, and the Universe to support their mission goals and intentions.
+This repository was created to be cloned/extended/forked/exploited/users by me, you, and the Universe to support their mission goals and intentions.
 
-In this repository will find a generic source code repository template with baked-in capability for jenkins pipelines, automated builds, automated DockerHub deploys, and self-contained documentation.
+In this repository will find a generic source code repository template with baked-in capability for Jenkins pipelines, automated builds, automated DockerHub deploys, and self-contained documentation.
 
 ## The True Intention Of This Repository
 
@@ -20,7 +20,7 @@ From My Universe To Yours, With Lots Of Love.
 
 In order to receive we must share. Or something like that.
 
-In this repository and the repositories that shall extend this repository, I have shared many things.
+In this repository and the repositories that extend this repository, I have shared many things.
 
 In addition to my duty to share, the contents of these repositories have been created to fulfill a selfish Intention.
 
@@ -30,7 +30,7 @@ It is my Intention that the fruits of my software development creation will be s
 
 I desire that my fruit become eternal.
 
-I desire to become Eternal.
+I desire the receive Immortality.
 
 --
 
