@@ -2,7 +2,7 @@
 
 In this GitHub repo will find a server provisioning bash script that will update, upgrade and configure your new ubuntu linux server.
 
-![Run This Provision Script On Every New Linux Server You Create](project-documentation/cover-image.png)
+![Run This Provision Script On Every New Linux Server You Create](project-documentation/images-pictures/cover-image.png)
 
 ## About This Repository
 
